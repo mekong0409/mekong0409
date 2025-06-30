@@ -5,9 +5,8 @@
 
 ### Services
 
-메콩타운 (모더레이션만 (유지보수는 호토스트로 통해 기술 지원))
-
-앞으로 잘 부탁해요!
+![Maekongtown.xyz](https://img.shields.io/badge/fediverse-maekongtown-green?logo=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F503-5037759_fediverse-icon-hd-png-download.png)
+(mod only.)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=mekong0409&count_private=true&show_icons=true)
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mekong0409&layout=compact&langs_count=8)
